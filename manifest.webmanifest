@@ -1,0 +1,19 @@
+{
+  "name": "NEXUS AI Personal + Business",
+  "short_name": "NEXUS AI",
+  "description": "Personal and business dashboard",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0a1220",
+  "theme_color": "#101827",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
